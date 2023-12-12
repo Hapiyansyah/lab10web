@@ -2,7 +2,7 @@
 
 ## 1. praktikum
 
-![P1](P1.png)
+![P1](lab10web/P1.png)
 
 ## 2. tugas
 
